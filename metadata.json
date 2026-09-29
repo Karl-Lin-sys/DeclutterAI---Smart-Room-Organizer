@@ -1,0 +1,6 @@
+{
+  "name": "DeclutterAI - Smart Room Organizer",
+  "description": "Upload photos of your living spaces to receive AI-powered room analysis, clutter hotspot detection, step-by-step organization plans, and multi-turn organizing coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
